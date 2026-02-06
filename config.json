@@ -1,0 +1,17 @@
+{
+    "monitor_directories": [
+        "/home/users/xxx",
+        "/home/users/xxx/Downloads",
+        "/home/users/xxx/.claude",
+        "/home/users/xxx/.comate"
+    ],
+    "exclude_directories": [
+        "/home/users/xxx/code",
+        "/home/users/xxx/.cache"
+    ],
+    "cpu_threshold": 30.0,
+    "scan_interval": 3600,
+    "max_files_to_show": 100,
+    "output_file": "/home/users/xxx/large_files_report.txt",
+    "report_dir_sizes": true
+}
